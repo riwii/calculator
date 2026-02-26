@@ -1,5 +1,3 @@
-saldo = 1000
-
 print("Banco Corresponsal")
 
 operaciones = int(input("¿Cuantas operaciones desea realizar?: "))
