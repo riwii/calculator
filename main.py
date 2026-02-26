@@ -12,9 +12,3 @@ elif selection == 2:
      saldo_inicial <= 0:
      print("retiro exitoso")
      print(f"nuevo saldo: {saldo_inicial - monto} " )
-
- 
-
-
-        
-    
