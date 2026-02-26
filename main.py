@@ -5,3 +5,6 @@
             deposito = int(input("¿cuanto desea depositar?: "))
         saldo+=deposito
         print("Su nuevo saldo es: ", saldo)
+        
+    else:
+        print("Opción no válida")
