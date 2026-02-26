@@ -1,1 +1,5 @@
-saldo= 1000
+saldo = 1000
+
+print("Banco Corresponsal")
+
+operaciones = input("¿Cuantas operaciones desea realizar?: ")
