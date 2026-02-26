@@ -1,10 +1,1 @@
-print("Hola")
-print("como estan, mundo")
-print("Bien y tu?: ")
-print("Bien")
-print("XD")
-print("Jon z")
-print("Rastacuando")
-print("nsqk")
-print("Ejemplo de un conflicto")
-print("cambio")
+saldo= 1000
