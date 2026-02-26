@@ -2,4 +2,7 @@ saldo = 1000
 
 print("Banco Corresponsal")
 
-operaciones = input("¿Cuantas operaciones desea realizar?: ")
+operaciones = int(input("¿Cuantas operaciones desea realizar?: "))
+
+for i in range(operaciones):
+    selection= int(input("Seleccione la operacion deseada:\n1- Consultar salado.\n2- Retirar.\n3- Depositar. "))
