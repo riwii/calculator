@@ -1,6 +1,6 @@
 elif selection == 2:
         while True:
-            monto = float(input("Ingrese el monto a retirar: "))
+            monto = int(input("Ingrese el monto a retirar: "))
 
             if monto < 0:
                 print("Monto inválido")
