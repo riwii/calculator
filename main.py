@@ -5,3 +5,5 @@ operaciones = int(input("¿Cuantas operaciones desea realizar?: "))
 
 for i in range(operaciones):
     selection= int(input(f"Seleccione la operacion deseada:\n1- Consultar saldo.\n2- Retirar.\n3- Depositar. \nOperacion #{i + 1}: "))
+    if selection == 1:
+        print (f"el saldo actual: {saldo}")
