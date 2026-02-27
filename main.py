@@ -32,3 +32,4 @@ for i in range(operaciones):
 
     else:
         print("Opción no válida")
+print ("gracias")
